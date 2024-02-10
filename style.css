@@ -1,0 +1,78 @@
+/* Loader settings */
+#loading,
+#results {
+  display: none;
+}
+
+#loading {
+  margin-top: 5%;
+  margin-left: 48%;
+}
+
+img{
+  height: 12%;
+  width: 12%;
+}
+/* Page resets */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* Body */
+body {
+  background-color:  #868794;
+}
+/* Header */
+h1 {
+  text-transform: uppercase;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+  background: #626676;
+}
+/* Form Stylings */
+form {
+  margin-top: 3%;
+  margin-left: 35%;
+}
+
+input {
+  padding: 2% 15%;
+}
+
+.btn-calc {
+  margin-left: 6%;
+  padding: 2% 15%;
+}
+
+.btn-calc:hover {
+  cursor: pointer;
+  background-color: #b1b1b1;
+  border: none;
+}
+/* Calculated Results */
+h2{
+  margin-top: 3%;
+  margin-left: 35%;
+  /* text-align: center; */
+}
+
+#results {
+  margin-left: 20%;
+}
+
+.input-styles {
+   margin-top: 2%;
+   padding: 1% 9%;
+}
+
+.input-styles2 {
+  margin-top: -2%;
+  padding: 1% 14%;
+}
+
+.input-styles3 {
+  margin-top: -2%;
+  padding: 1% 16%;
+}
